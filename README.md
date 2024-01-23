@@ -1,1 +1,1 @@
-Simple test for p2p video call.
+Simple demo for p2p video call.
